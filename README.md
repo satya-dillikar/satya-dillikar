@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Satya Dillikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-dillikar)](https://github.com/satya-dillikar/github-readme-stats)
+
 <!--
 **satya-dillikar/satya-dillikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
