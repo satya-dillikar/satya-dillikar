@@ -2,8 +2,6 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on ...some projects using Go Lang, JS and Kubernetes
-- 🌱 I’m currently learning ...GO Lang, Distributed Algorithms
 - 👯 I’m looking to collaborate on ...Open Source Projects and Hackathons
 - 💬 Ask me about ...software development, I will try to help you if I can  
 
